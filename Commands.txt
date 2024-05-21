@@ -1,0 +1,16 @@
+
+v, --version	It is used to print node's version.
+node server --.Builds and serves your application, rebuilding on file changes.
+PS D:\Shalini\workspace\node_projects\angular-editable-table> ng serve
+
+
+
+
+----------------------------------
+
+Run the server on Node project   --->
+
+
+PS D:\Shalini\workspace\node_projects\node-file-saver> npm run
+
+PS D:\Shalini\workspace\node_projects\node-file-saver> node .\app.js
